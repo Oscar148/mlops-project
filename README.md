@@ -2,6 +2,4 @@
 
 Actividad 4: MLOps
 
-Main points of MLOps: 
-
-Training, Deploying, Monitoring
+This project demonstrates MLOps principles: training, deploying, and monitoring a machine learning model.
